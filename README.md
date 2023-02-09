@@ -10,7 +10,7 @@ Jump in and press create to build new images.
 
 
 
-
+Deployed Frontend : https://ai-image-generator-pink.vercel.app
 
 
 
